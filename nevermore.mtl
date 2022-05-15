@@ -1,13 +1,15 @@
-# 
-# Wavefront material file
-# Created with Kaydara FBX
-# 
+# Blender MTL File: 'None'
+# Material Count: 1
 
-newmtl materials_models_heroes_nevermore_nevermore_color_vmat
-map_Kd nevermore_specmask_tga_7ce3a0d8.png
-Ka 0.000000 0.000000 0.000000
+newmtl nevermore_color
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
-Ks 0.100000 0.100000 0.100000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
 illum 2
-Ns 5.000000
-Tr 1.000000
+map_Bump nevermore_normal_tga_d4cbd795.png
+map_Kd nevermore_color_psd_a53f1f33.png
+map_d nevermore_color_psd_a53f1f33.png
