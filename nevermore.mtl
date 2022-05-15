@@ -1,0 +1,13 @@
+# 
+# Wavefront material file
+# Created with Kaydara FBX
+# 
+
+newmtl materials_models_heroes_nevermore_nevermore_color_vmat
+map_Kd nevermore_specmask_tga_7ce3a0d8.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.100000 0.100000 0.100000
+illum 2
+Ns 5.000000
+Tr 1.000000
